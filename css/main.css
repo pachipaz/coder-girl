@@ -1,0 +1,55 @@
+.fondo {
+	background-image: url("../img/home.jpg");
+	height: 491px;
+	background-size: cover;
+	margin: auto;
+}
+
+.navbar-default {
+	margin-bottom: 0px;
+}
+
+.titulo {
+	color: white;
+	text-align: center;
+	font-weight: lighter;
+	margin-top: 169px;
+}
+.participe {
+	text-align: center;
+}
+.fondo {
+	text-align: center;
+}
+.ve {
+	text-align: center;
+	padding-bottom: 3%;
+	font-weight: lighter;
+
+}
+.video {
+	padding:5% 0; 
+}
+.bajada {
+	text-align: center;
+	padding: 3%;
+}
+.hackathon {
+	background-color:yellow;
+	height: 444px;
+	padding: 5%;
+}
+.hackgirl {
+	text-align: center;
+	width: 554px;
+	height: 316px;
+}
+.big {
+	padding: 2% 4%;
+}
+.ilustracion {
+	height: 681px;
+}
+.not {
+	padding: 12%;
+}
